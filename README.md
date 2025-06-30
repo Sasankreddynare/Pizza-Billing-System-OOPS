@@ -40,9 +40,9 @@ It also includes a special type of pizza: **DeluxePizza**, which automatically c
 
 ## 📁 Project Structure
 
-Pizza.java # Base class for pizza orders
-DeluxePizza.java # Subclass with automatic cheese + toppings
-Main.java # Main file to test the system
+- Pizza.java # Base class for pizza orders.
+- DeluxePizza.java # Subclass with automatic cheese + toppings.
+- Main.java # Main file to test the system
 
 ## 🚀 How to Run
 
