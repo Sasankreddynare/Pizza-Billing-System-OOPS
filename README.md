@@ -1,4 +1,4 @@
-# 🍕 OOP-Based Pizza Billing System (Java)
+# 🍕 OOP-Based Pizza Billing System (Java-OOPS)
 
 Welcome to the **Pizza Billing System**, a simple yet practical console-based Java project demonstrating core **Object-Oriented Programming (OOP)** concepts such as **inheritance**, **encapsulation**, **method overriding**, and **constructor chaining**.
 
